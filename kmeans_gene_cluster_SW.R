@@ -1,5 +1,5 @@
 #########################################################################
-# k-means gene clustering 
+# k-means gene clustering  
 # Travis S. Johnson PhD
 #
 # This script performs k-means clustering on the gene expression results
