@@ -1,3 +1,7 @@
+####################################################################
+# This file performs DGE analysis with edgeR
+# Gitanjali Roy and Travis S. Johnson
+
 library(edgeR)
 library(limma)
 library(magrittr)
